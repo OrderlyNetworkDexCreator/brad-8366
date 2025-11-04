@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets",
-  "VITE_CUSTOM_MENUS": "Swap, https://raydium.io/swap; Liquidity, https://raydium.io/liquidity-pools/; Portfolio, https://raydium.io/portfolio/",
+  "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/raydiumprotocol",
   "VITE_DISCORD_URL": "https://discord.com/invite/raydium",
